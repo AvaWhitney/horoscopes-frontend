@@ -49,7 +49,7 @@ function App() {
     setResult(`Consulting the stars for your ✨ ${vibe} ${sign} ✨ forecast...`);
   
     try {
-      const response = await fetch("https://horoscope-backend-zfvy.onrender.com", {
+      const response = await fetch("https://horoscope-backend-zfvy.onrender.com/horoscope", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
