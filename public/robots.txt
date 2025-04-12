@@ -1,3 +1,2 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Disallow: /horoscope-archive-083ff7fb9b-download
