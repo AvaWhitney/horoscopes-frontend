@@ -1,4 +1,4 @@
-# Modem Muse Horoscopes: Techno-Celestial Forecasts
+# Modem Muse Horoscopes: The Techno-Celestial Edition
 
 This is the frontend for Modem Muse Horoscopes, an interactive app where users input their zodiac sign and current vibe to receive a unique, AI-generated forecast. The frontend combines playful design with clear form interactions for a fun, frictionless user experience.
 
